@@ -23,11 +23,13 @@
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/> ⭐⭐⭐ <br>
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/> ⭐⭐ <br>
   <img src="https://img.shields.io/badge/Zustand-443E38?style=flat-square&logo=React&logoColor=white"/> ⭐⭐ <br>
-  <img src="https://img.shields.io/badge/React_Query-FF4154?style=flat-square&logo=ReactQuery&logoColor=white"/> ⭐⭐
+  <img src="https://img.shields.io/badge/React_Query-FF4154?style=flat-square&logo=ReactQuery&logoColor=white"/> ⭐⭐ <br>
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=OpenJDK&logoColor=white"/> ⭐⭐⭐
 </p>
 
 ### Backend & Database
 <p align="left">
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=Spring%20Boot&logoColor=white"/> ⭐⭐ <br>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/> ⭐⭐ <br>
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/> ⭐⭐
 </p>
@@ -42,7 +44,7 @@
 
 ### ⏰ 외대종강시계 (Chrome Extension)
 > **"60여 명의 학우들이 사용하는 실전 서비스"**
-- **개발 기간**: 2025.11 ~ 2026.01 (1인 개발)
+- **개발 기간**: 2025.11 ~ 2026.02 (1인 개발)
 - **주요 기능**: 공지사항/학식 조회, 핫링크 커스텀, 종강 카운트다운, 실시간 날씨 및 시간표
 - **Key Point**: 
   - `Swiper.js`를 활용한 웹앱 스타일 UI 구현
@@ -51,12 +53,12 @@
   - 백엔드 로직 분리로 스토어 검수 없는 빠른 업데이트 환경 구축
 
 ### 📝 Next.js Toy Blog
-- **개발 기간**: 2025.01 (1인 개발)
+- **개발 기간**: 약 2주 (1인 개발)
 - **주요 기능**: MongoDB 연동, oAuth(Session/JWT) 로그인, API 라우트 구현
 - **Review**: SSR/CSR의 차이를 이해하고 전체적인 웹 서비스의 흐름(HTTP 통신, 예외 처리)을 익혔습니다.
 
 ### 🛒 React Toy Shopping Mall
-- **개발 기간**: 2025.11 (1인 개발)
+- **개발 기간**: 약 2주 (1인 개발)
 - **Review**: 리액트의 기본인 컴포넌트 설계, 라우팅, 전역 상태 관리의 기초를 다진 프로젝트입니다.
 
 ---
