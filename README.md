@@ -1,9 +1,5 @@
 # 🚀 Welcome to My Tech Log
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=auto&height=200&section=header&text=Developer%20Name&fontSize=70" />
-</p>
-
 ### 🛠 Tech Stack
 <p align="left">
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
@@ -15,6 +11,6 @@
 
 ### 📊 GitHub Stats
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=내아이디&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=내아이디&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ChoRockKim&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChoRockKim&layout=compact&theme=radical" />
 </p>
