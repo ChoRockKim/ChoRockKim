@@ -63,14 +63,8 @@
 
 ---
 
-## 📊 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=ChoRockKim&show_icons=true&theme=radical" alt="Taeheon's GitHub Stats" />
-</p>
-
----
-
 ## 📞 Contact
 - 📧 **Email**: daejincnc2@gmail.com
 - 📞 **Phone**: 010-9646-9952
 - 🔗 **GitHub**: [github.com/ChoRockKim](https://github.com/ChoRockKim)
+- 🔗 **Notion** https://abrupt-hoodie-422.notion.site/2f0f32b9aaa080ba95fcef5d913f135f
