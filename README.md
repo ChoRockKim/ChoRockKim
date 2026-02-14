@@ -1,5 +1,4 @@
-# 👋 Hello, I'm Taeheon Kim! 
-### "사용자 경험을 고민하며 풀스택으로 나아가는 프론트엔드 개발자"
+### 현재 풀스택 지향하며 프론트엔드 공부 중입니다.
 
 <p align="left">
   <a href="mailto:daejincnc2@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
