@@ -37,7 +37,11 @@
   <a href="https://www.linkedin.com/in/%ED%83%9C%ED%97%8C-%EA%B9%80-3235b6399/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
   </a>
+  <a href="[https://사용자님의-포트폴리오-주소](https://taeheonkim-portfolio.vercel.app/)">
+    <img src="https://img.shields.io/badge/Portfolio-89C172?style=for-the-badge&logo=googlesheets&logoColor=white"/>
+  </a>
 </div>
+<br>
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ChoRockKim&bg_color=00000000&color=89C172&line=89C172&point=FFFFFF&area=true&hide_border=true" />
 </div>
