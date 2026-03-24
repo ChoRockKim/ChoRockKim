@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=header&text=Chorock's%20GitHub&fontSize=42" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=fafaf8&height=150&section=header&text=Chorock's%20GitHub&fontSize=42" />
 <div align="center"> 
   <h3>👋 Introduction</h3>
   <p>현재 풀스택을 지향하며 프론트엔드를 공부 중입니다.</p>
@@ -24,6 +24,3 @@
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white"/>
   <img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat&logo=react&logoColor=white"/>
 </div>
-
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=93C572&height=50&section=footer&text=텍스트&fontSize=12" />
