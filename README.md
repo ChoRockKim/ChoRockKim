@@ -4,6 +4,38 @@
   <p>현재 풀스택을 지향하며 프론트엔드를 공부 중입니다.</p>
 </div>
 <br>
+<div align="center">
+  <h3>🎓 Education & Experience</h3>
+  <p>
+    <b>Hankuk University of Foreign Studies</b><br>
+    ELLT (English Linguistics & Language Technology) & Convergence Software
+  </p>
+  
+  <img src="https://img.shields.io/badge/LikeLion_14th-HUFS_Executive-FF8C00?style=flat-square&logo=lionair&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/Certification-SQLD-blue?style=flat-square&logo=databricks&logoColor=white"/>
+</div>
+
+<br>
+
+<table>
+  <tr>
+    <td align="center"><b>Category</b></td>
+    <td><b>Details</b></td>
+  </tr>
+  <tr>
+    <td align="center">🏫 <b>University</b></td>
+    <td>한국외국어대학교 ELLT 본전공 / 융복합소프트웨어 이중전공</td>
+  </tr>
+  <tr>
+    <td align="center">🦁 <b>Activity</b></td>
+    <td>멋쟁이사자처럼 한국외국어대학교 14기 운영진 (Executive Member)</td>
+  </tr>
+  <tr>
+    <td align="center">📜 <b>License</b></td>
+    <td>SQLD (SQL Developer) 취득</td>
+  </tr>
+</table>
+<br>
 <div align="center"> 
   <h3>🍀 Skills</h3>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
