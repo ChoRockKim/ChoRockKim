@@ -1,5 +1,5 @@
 # <div align="center">ChoRock's Github</div>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=93C572&height=50&section=header&text=&fontSize=12" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=93C572&height=50&section=header&text=&fontSize=12" color="white"/>
 
 <div align="center"> 
 ## <div>자기소개</div>
