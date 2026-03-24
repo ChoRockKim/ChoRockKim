@@ -27,10 +27,17 @@
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChoRockKim&layout=compact&hide_border=true&bg_color=00000000" alt="Top Langs" />
   </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=ChoRockKim&show_icons=true&hide_border=true&bg_color=00000000" alt="GitHub Stats" />
-  </a>
 </div>
 <br>
-
-
+<div align="center">
+  <h3>📬 Contact</h3>
+  <a href="mailto:daejincnc2@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/%ED%83%9C%ED%97%8C-%EA%B9%80-3235b6399/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
+  </a>
+</div>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ChoRockKim&bg_color=00000000&color=89C172&line=89C172&point=FFFFFF&area=true&hide_border=true" />
+</div>
