@@ -7,6 +7,8 @@
   <h2>Skills</h2>
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white"/>  
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white"/>
 </div>
 # footer
 <img src="https://capsule-render.vercel.app/api?type=waving&color=93C572&height=50&section=footer&text=텍스트&fontSize=12" />
