@@ -4,7 +4,6 @@
   <p>현재 풀스택을 지향하며 프론트엔드를 공부 중입니다.</p>
 </div>
 <br>
-<br>
 <div align="center"> 
   <h3>🍀 Skills</h3>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
@@ -16,7 +15,6 @@
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwindcss&logoColor=white"/>
   <img src="https://img.shields.io/badge/Sass-CC6699?style=flat&logo=sass&logoColor=white"/>
 </div>
-<br>
 <br>
 <div align="center">
   <h3>✏️ Studying</h3>
