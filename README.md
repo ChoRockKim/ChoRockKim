@@ -16,7 +16,7 @@
 </div>
 
 <br>
-
+<div align="center">
 <table>
   <tr>
     <td align="center"><b>Category</b></td>
@@ -32,9 +32,10 @@
   </tr>
   <tr>
     <td align="center">📜 <b>License</b></td>
-    <td>SQLD (SQL Developer) 취득</td>
+    <td>SQLD</td>
   </tr>
 </table>
+</div>
 <br>
 <div align="center"> 
   <h3>🍀 Skills</h3>
