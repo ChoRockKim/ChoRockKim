@@ -6,7 +6,7 @@
 <br>
 <br>
 <div align="center"> 
-  <h2>🍀 Skills</h2>
+  <h3>🍀 Skills</h3>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white"/>  
@@ -19,7 +19,7 @@
 <br>
 <br>
 <div align="center">
-  <h2>✏️ Studying</h2>
+  <h3>✏️ Studying</h3>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white"/>
   <img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat&logo=react&logoColor=white"/>
