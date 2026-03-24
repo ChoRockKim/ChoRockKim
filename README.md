@@ -30,13 +30,13 @@
 </div>
 <br>
 <div align="center">
-  <a href="https://사용자님의-포트폴리오-주소">
+  <a href="https://taeheonkim-portfolio.vercel.app">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
-  <a href="mailto:이메일주소">
+  <a href="mailto:daejincnc2@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="링크드인주소">
+  <a href="https://www.linkedin.com/in/%ED%83%9C%ED%97%8C-%EA%B9%80-3235b6399/">
     <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </div>
