@@ -1,8 +1,8 @@
 <div align="center"><h1>ChoRock's Github</h1></div>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=93C572&height=50&section=header&text=&fontSize=12" color="white"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=93C572&height=100&section=header&text=&fontSize=12" color="white"/>
 
 <div align="center"> 
-  <h2>👋 Introduction</h2>
+  <h3>👋 Introduction</h3>
   <p>현재 풀스택을 지향하며 프론트엔드를 공부 중입니다.</p>
 </div>
 <br>
