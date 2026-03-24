@@ -1,5 +1,5 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=93C572&height=50&section=header&text=&fontSize=12" color="white"/>
-# <div align="center">ChoRock's Github</div>
+<div align="center"><h1>ChoRock's Github</h1></div>
 
 
 <div align="center"> 
