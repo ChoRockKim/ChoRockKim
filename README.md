@@ -32,7 +32,7 @@
   </tr>
   <tr>
     <td align="center">📜 <b>License</b></td>
-    <td>SQLD</td>
+    <td>SQLD(SQL 개발자)</td>
   </tr>
 </table>
 </div>
