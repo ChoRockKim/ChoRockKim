@@ -72,6 +72,9 @@
   <a href="https://www.linkedin.com/in/%ED%83%9C%ED%97%8C-%EA%B9%80-3235b6399/">
     <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
+    <a href="https://www.chorock.page">
+    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=TechBlog&logoColor=white"/>
+  </a>
 </div>
 <br>
 <div align="center">
