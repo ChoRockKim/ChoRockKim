@@ -73,7 +73,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
     <a href="https://www.chorock.page">
-    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=TechBlog&logoColor=white"/>
+    <img src="https://img.shields.io/badge/TechBlog-000000?style=for-the-badge&logo=TechBlog&logoColor=white"/>
   </a>
 </div>
 <br>
